@@ -20,7 +20,8 @@
     "express-fileupload": "^1.5.1",
     "mongoose": "^8.14.3",
     "node-cron": "^4.0.5",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "spotify-clone": "file:.."
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
